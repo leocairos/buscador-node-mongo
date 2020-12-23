@@ -1,5 +1,5 @@
 # buscador-node-mongo
-Exemplo simples de motor de busca com Node.js e MongoDB, apresentado em seminário online (2020).
+Exemplo simples de motor de busca com Node.js e MongoDB.
 
 # Como executar
 1. Suba uma instância de MongoDB e importe o arquivo mflix.json em uma base netflix, coleção movies.
@@ -27,4 +27,4 @@ Exemplo em PHP: https://imasters.com.br/back-end/mecanismos-de-busca-de-php-com-
 
 Tutorial de webcrawler: https://www.luiztools.com.br/post/webscrapping-com-node-js/ 
 
-
+Tutorial de motor de busca com Node.js e MongoDB (driver nativo): https://www.luiztools.com.br/post/tutorial-de-motor-de-busca-com-node-js-e-mongodb-driver-nativo/
